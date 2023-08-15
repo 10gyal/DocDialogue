@@ -1,0 +1,5 @@
+#Ignore API Keys
+.env
+
+#Ignore Virtual Env
+venv/
