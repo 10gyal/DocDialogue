@@ -2,4 +2,4 @@
 .env
 
 #Ignore Virtual Env
-./venv
+venv/
