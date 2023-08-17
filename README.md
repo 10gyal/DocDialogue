@@ -1,5 +1,5 @@
 # DocDialogue
-Conversate with documents!
+Dialogue with documents!
 
 A minimlistic app for having conversations with multiple PDF docs.
 
